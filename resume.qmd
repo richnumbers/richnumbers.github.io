@@ -1,39 +1,29 @@
 ---
-layout: cv
-title: Aaron Rich's CV
+title: "Aaron Rich - Resume"
 ---
+
 # Aaron Rich
-Aspiring Computer Science Student, Backend Developer, C# & SQL Enthusiast.
+
+Aspiring Computer Science Student | Backend Developer | C# & SQL Enthusiast
 
 <div id="webaddress">
 <a href="mailto:richnumbers@gmail.com">richnumbers@gmail.com</a>
+| <a href="tel:7853172672">(785) 317-2672</a>
 | <a href="https://github.com/richnumbers">GitHub</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+| <a href="https://www.linkedin.com/in/aaron-rich-663223348/">LinkedIn</a>
 </div>
 
-
-## Currently
-
-Building backend systems and data-driven applications as a Computer Science student at BYU-Idaho.
-
-### Specialized in
-
-Backend development with C#, relational database design, and custom engine architecture.
-
-### Interests
-
-Data structures, game systems, system architecture, data analysis, and scalable software design.
-
+---
 
 ## Education
 
 `April 2027`
-__Brigham Young University - Idaho__, Rexburg, Idaho
+__Brigham Young University - Idaho__ — Rexburg, Idaho
 
-- Computer Science
+- B.S. Computer Science
 - Relevant Coursework: Data Structures, Software Engineering, Database Design, Programming with Classes
 
+---
 
 ## Projects
 
@@ -46,23 +36,27 @@ __Firebase & SQLite Data Analysis__
 
 - Built a Firebase database and populated a SQLite database from cloud data, creating visual data points and charts to analyze usage patterns and system behavior.
 
+---
 
 ## Work Experience
 
 `April 2024 - Present`
-__Pierc Pitt BBQ__, Williamsburg, Virginia — *Kitchen Staff*
+__Pierc Pitt BBQ__ — Williamsburg, Virginia
+*Kitchen Staff*
 
 - Prepared 300–400 meals per shift (up to 600 on peak days) while maintaining quality and sub-8-minute ticket times.
 - Maintained consistent food rotation and safety standards during high-volume hours.
 
 `September 2019 - March 2024`
-__Walmart__, Williamsburg, Virginia — *Team Lead, Service Writer*
+__Walmart__ — Williamsburg, Virginia
+*Team Lead, Service Writer*
 
 - Delivered front-line customer service processing transactions including money orders and check cashing, contributing to a 90% customer satisfaction rating.
 - Coordinated front-end teams of up to 20 associates per shift, reducing wait times by ~30% during peak hours.
 - Wrote 15+ daily service orders and advised customers, contributing to a 20% increase in upsold maintenance services.
 - Performed ~700 automotive services including oil changes, tire work, and battery installs.
 
+---
 
 ## Skills
 
