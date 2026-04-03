@@ -327,42 +327,35 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Aaron Rich’s CV",
+    "title": "Aaron Rich - Resume",
     "section": "",
-    "text": "Aspiring Computer Science Student, Backend Developer, C# & SQL Enthusiast.\n\nrichnumbers@gmail.com | GitHub  | Download PDF\n\n\n\nBuilding backend systems and data-driven applications as a Computer Science student at BYU-Idaho.\n\n\nBackend development with C#, relational database design, and custom engine architecture.\n\n\n\nData structures, game systems, system architecture, data analysis, and scalable software design.\n\n\n\n\nApril 2027 Brigham Young University - Idaho, Rexburg, Idaho\n\nComputer Science\nRelevant Coursework: Data Structures, Software Engineering, Database Design, Programming with Classes\n\n\n\n\nCard Game Engine (C#)\n\nDesigned and implemented a relational database to manage cards, items, and characters, enabling reliable battle logic and deck validation.\nIntegrated inventory, combat, and deck systems within a custom C# engine, ensuring accurate game-state synchronization without third-party frameworks.\n\nFirebase & SQLite Data Analysis\n\nBuilt a Firebase database and populated a SQLite database from cloud data, creating visual data points and charts to analyze usage patterns and system behavior.\n\n\n\n\nApril 2024 - Present Pierc Pitt BBQ, Williamsburg, Virginia — Kitchen Staff\n\nPrepared 300–400 meals per shift (up to 600 on peak days) while maintaining quality and sub-8-minute ticket times.\nMaintained consistent food rotation and safety standards during high-volume hours.\n\nSeptember 2019 - March 2024 Walmart, Williamsburg, Virginia — Team Lead, Service Writer\n\nDelivered front-line customer service processing transactions including money orders and check cashing, contributing to a 90% customer satisfaction rating.\nCoordinated front-end teams of up to 20 associates per shift, reducing wait times by ~30% during peak hours.\nWrote 15+ daily service orders and advised customers, contributing to a 20% increase in upsold maintenance services.\nPerformed ~700 automotive services including oil changes, tire work, and battery installs.\n\n\n\n\n\n\nC#, Python, MySQL, SQLite, JSON, Firebase\n\n\n\nLeadership, Customer Service, Retail Operations, Automotive Maintenance, Cash Handling"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Aaron Rich’s CV",
-    "section": "",
-    "text": "Building backend systems and data-driven applications as a Computer Science student at BYU-Idaho.\n\n\nBackend development with C#, relational database design, and custom engine architecture.\n\n\n\nData structures, game systems, system architecture, data analysis, and scalable software design."
+    "text": "Aspiring Computer Science Student | Backend Developer | C# & SQL Enthusiast\n\nrichnumbers@gmail.com | (785) 317-2672 | GitHub | LinkedIn\n\n\n\n\nApril 2027 Brigham Young University - Idaho — Rexburg, Idaho\n\nB.S. Computer Science\nRelevant Coursework: Data Structures, Software Engineering, Database Design, Programming with Classes\n\n\n\n\n\nCard Game Engine (C#)\n\nDesigned and implemented a relational database to manage cards, items, and characters, enabling reliable battle logic and deck validation.\nIntegrated inventory, combat, and deck systems within a custom C# engine, ensuring accurate game-state synchronization without third-party frameworks.\n\nFirebase & SQLite Data Analysis\n\nBuilt a Firebase database and populated a SQLite database from cloud data, creating visual data points and charts to analyze usage patterns and system behavior.\n\n\n\n\n\nApril 2024 - Present Pierc Pitt BBQ — Williamsburg, Virginia Kitchen Staff\n\nPrepared 300–400 meals per shift (up to 600 on peak days) while maintaining quality and sub-8-minute ticket times.\nMaintained consistent food rotation and safety standards during high-volume hours.\n\nSeptember 2019 - March 2024 Walmart — Williamsburg, Virginia Team Lead, Service Writer\n\nDelivered front-line customer service processing transactions including money orders and check cashing, contributing to a 90% customer satisfaction rating.\nCoordinated front-end teams of up to 20 associates per shift, reducing wait times by ~30% during peak hours.\nWrote 15+ daily service orders and advised customers, contributing to a 20% increase in upsold maintenance services.\nPerformed ~700 automotive services including oil changes, tire work, and battery installs.\n\n\n\n\n\n\n\nC#, Python, MySQL, SQLite, JSON, Firebase\n\n\n\nLeadership, Customer Service, Retail Operations, Automotive Maintenance, Cash Handling"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Aaron Rich’s CV",
+    "title": "Aaron Rich - Resume",
     "section": "",
-    "text": "April 2027 Brigham Young University - Idaho, Rexburg, Idaho\n\nComputer Science\nRelevant Coursework: Data Structures, Software Engineering, Database Design, Programming with Classes"
+    "text": "April 2027 Brigham Young University - Idaho — Rexburg, Idaho\n\nB.S. Computer Science\nRelevant Coursework: Data Structures, Software Engineering, Database Design, Programming with Classes"
   },
   {
     "objectID": "resume.html#projects",
     "href": "resume.html#projects",
-    "title": "Aaron Rich’s CV",
+    "title": "Aaron Rich - Resume",
     "section": "",
     "text": "Card Game Engine (C#)\n\nDesigned and implemented a relational database to manage cards, items, and characters, enabling reliable battle logic and deck validation.\nIntegrated inventory, combat, and deck systems within a custom C# engine, ensuring accurate game-state synchronization without third-party frameworks.\n\nFirebase & SQLite Data Analysis\n\nBuilt a Firebase database and populated a SQLite database from cloud data, creating visual data points and charts to analyze usage patterns and system behavior."
   },
   {
     "objectID": "resume.html#work-experience",
     "href": "resume.html#work-experience",
-    "title": "Aaron Rich’s CV",
+    "title": "Aaron Rich - Resume",
     "section": "",
-    "text": "April 2024 - Present Pierc Pitt BBQ, Williamsburg, Virginia — Kitchen Staff\n\nPrepared 300–400 meals per shift (up to 600 on peak days) while maintaining quality and sub-8-minute ticket times.\nMaintained consistent food rotation and safety standards during high-volume hours.\n\nSeptember 2019 - March 2024 Walmart, Williamsburg, Virginia — Team Lead, Service Writer\n\nDelivered front-line customer service processing transactions including money orders and check cashing, contributing to a 90% customer satisfaction rating.\nCoordinated front-end teams of up to 20 associates per shift, reducing wait times by ~30% during peak hours.\nWrote 15+ daily service orders and advised customers, contributing to a 20% increase in upsold maintenance services.\nPerformed ~700 automotive services including oil changes, tire work, and battery installs."
+    "text": "April 2024 - Present Pierc Pitt BBQ — Williamsburg, Virginia Kitchen Staff\n\nPrepared 300–400 meals per shift (up to 600 on peak days) while maintaining quality and sub-8-minute ticket times.\nMaintained consistent food rotation and safety standards during high-volume hours.\n\nSeptember 2019 - March 2024 Walmart — Williamsburg, Virginia Team Lead, Service Writer\n\nDelivered front-line customer service processing transactions including money orders and check cashing, contributing to a 90% customer satisfaction rating.\nCoordinated front-end teams of up to 20 associates per shift, reducing wait times by ~30% during peak hours.\nWrote 15+ daily service orders and advised customers, contributing to a 20% increase in upsold maintenance services.\nPerformed ~700 automotive services including oil changes, tire work, and battery installs."
   },
   {
     "objectID": "resume.html#skills",
     "href": "resume.html#skills",
-    "title": "Aaron Rich’s CV",
+    "title": "Aaron Rich - Resume",
     "section": "",
     "text": "C#, Python, MySQL, SQLite, JSON, Firebase\n\n\n\nLeadership, Customer Service, Retail Operations, Automotive Maintenance, Cash Handling"
   },
