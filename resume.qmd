@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aaron Rich's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aaron Rich
+Aspiring Computer Science Student, Backend Developer, C# & SQL Enthusiast.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:richnumbers@gmail.com">richnumbers@gmail.com</a>
+| <a href="https://github.com/richnumbers">GitHub</a>
 <!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
 | <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
 </div>
@@ -15,77 +15,59 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Building backend systems and data-driven applications as a Computer Science student at BYU-Idaho.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Backend development with C#, relational database design, and custom engine architecture.
 
+### Interests
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data structures, game systems, system architecture, data analysis, and scalable software design.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`April 2027`
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Computer Science
+- Relevant Coursework: Data Structures, Software Engineering, Database Design, Programming with Classes
 
 
+## Projects
 
-## Awards
+__Card Game Engine (C#)__
 
-`2012`
-President, *Royal Society*, London, UK
+- Designed and implemented a relational database to manage cards, items, and characters, enabling reliable battle logic and deck validation.
+- Integrated inventory, combat, and deck systems within a custom C# engine, ensuring accurate game-state synchronization without third-party frameworks.
 
-Associate, *French Academy of Science*, Paris, France
+__Firebase & SQLite Data Analysis__
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Built a Firebase database and populated a SQLite database from cloud data, creating visual data points and charts to analyze usage patterns and system behavior.
 
 
-## Occupation
+## Work Experience
 
-`1600`
-__Royal Mint__, London
+`April 2024 - Present`
+__Pierc Pitt BBQ__, Williamsburg, Virginia — *Kitchen Staff*
 
-- Warden
-- Minted coins
+- Prepared 300–400 meals per shift (up to 600 on peak days) while maintaining quality and sub-8-minute ticket times.
+- Maintained consistent food rotation and safety standards during high-volume hours.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`September 2019 - March 2024`
+__Walmart__, Williamsburg, Virginia — *Team Lead, Service Writer*
+
+- Delivered front-line customer service processing transactions including money orders and check cashing, contributing to a 90% customer satisfaction rating.
+- Coordinated front-end teams of up to 20 associates per shift, reducing wait times by ~30% during peak hours.
+- Wrote 15+ daily service orders and advised customers, contributing to a 20% increase in upsold maintenance services.
+- Performed ~700 automotive services including oil changes, tire work, and battery installs.
 
 
+## Skills
 
-<!-- ### Footer
+### Technical
+C#, Python, MySQL, SQLite, JSON, Firebase
 
-Last updated: May 2013 -->
+### Professional
+Leadership, Customer Service, Retail Operations, Automotive Maintenance, Cash Handling
